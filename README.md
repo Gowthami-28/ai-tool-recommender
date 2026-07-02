@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ### 3. Add your API key
 
 Create a file called `.env` inside the `ai_tool_recommender/` folder:
-GOOGLE_API_KEY=my_key_here
+GOOGLE_API_KEY=your_key_here
 **Never commit your API key.** The `.gitignore` already excludes `.env`.
 
 ### Running the Agent
